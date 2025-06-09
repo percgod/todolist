@@ -16,7 +16,7 @@ A simple and functional To-Do List application that allows you to add, complete,
 Alternatively, you can access the live version on GitHub Pages.
 
 ## Live Demo
-[View the live demo on GitHub Pages](https://your-username.github.io/to-do-list)
+[View the live demo on GitHub Pages](https://percgod.github.io/todolist/)
 
 ## Technologies Used
 - HTML5
