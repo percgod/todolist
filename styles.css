@@ -1,3 +1,11 @@
+:root {
+            --primary: #4285F4;
+            --secondary: #34A853;
+            --danger: #EA4335;
+            --bg: #fafafa;
+            --text: #202124;
+            --border: #dadce0;
+        }
         body {
             font-family: 'Roboto', Arial, sans-serif;
             background-color: var(--bg);
